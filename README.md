@@ -1,6 +1,6 @@
-- 👋 Hi, my name is Marco, I'm an Actuary 📈 and  I'm form Mexico 🇲🇽
+- 👋 Hi, my name is Marco, I'm an Actuary 📈 and  I'm from Mexico 🇲🇽
 - 👀 My passions are maths, statistics, sports, books, and pizza 🍕
-- 🌱 I’m currently learning using R and SQL for Data Science because I'm pretty sure it would help me to reach my dreams
+- 🌱 I’m currently learning using R for Data Science because I'm pretty sure it would help me to reach my dreams
 - 💞️ I want to work in the analysis of sports data or in a project that make an impact in the world
 
 <!---
