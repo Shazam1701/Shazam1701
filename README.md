@@ -10,13 +10,9 @@ Currently focused on strengthening my skills in **Python, SQL, Statistics and Ma
 
 ## 🧠 About Me
 
-- 🎓 Actuary with a background in Risk Management
-- 📊 Experience in Operational Risk, Risk Analysis and Data Analytics
-- 🐍 Currently developing my skills in Python
-- 🗄️ Currently developing my SQL skills
+- 📊 Experience in Operational and Resilience Risk, Enterprise Risk Managemenet, Risk Analysis and Data Analytics
 - 📈 Interested in Data Science, Machine Learning & AI Risk
-- 📚 Strong interest in Statistics, Mathematics and Business Analytics
-- 💼 Open to opportunities in Data Analytics, Risk Analytics and Data Science
+- 💼 Open to opportunities in Data Analytics, Risk Management and Data Science.
 
 ---
 
@@ -32,6 +28,7 @@ Currently focused on strengthening my skills in **Python, SQL, Statistics and Ma
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![QlikView](https://img.shields.io/badge/QlikView-009848?style=for-the-badge&logo=qlikview&logoColor=white)
 
 ---
 
@@ -54,15 +51,6 @@ Exploratory data analysis investigating the relationship between lifestyle habit
 
 ---
 
-## 📚 Currently Learning
-
-```text
-Python        █████████░  90%
-SQL           ███████░░░  70%
-Statistics    █████████░  90%
-Machine Learning █████░░░░░ 50%
-Cloud         ███░░░░░░░ 30%
-```
 <!---
 Shazam1701/Shazam1701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
