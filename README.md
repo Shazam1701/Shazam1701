@@ -44,7 +44,7 @@ Statistical analysis and machine learning project designed to explore sports out
 
 **Python · SQL · Pandas · Scikit-learn · Statistics**
 
-### 💤 [Project 3 – Sleep & Health Analysis](LINK)
+### 💤 [Project 3 – Sleep & Health Analysis](https://github.com/Shazam1701/Sleep-AI)
 Exploratory data analysis investigating the relationship between lifestyle habits and sleep quality.
 
 **Python · Pandas · Matplotlib · Statistics**
