@@ -42,6 +42,8 @@ Project that contains informatioin related to marketing campaing from a portugue
 ### 💤 [Project 2 – Sleep & Health Analysis](https://github.com/Shazam1701/Sleep-AI)
 Exploratory data analysis investigating the relationship between lifestyle habits and sleep quality.
 
+Streamlit: [https://github.com/Shazam1701/Ecobici_CDMX_Analysis/tree/main](https://sleep-ai-4he4df5suutxy73lrwqlaq.streamlit.app/)
+
 **Python · Pandas · Matplotlib · Statistics**
 
 ### 🏀 [Project 3 – Ecobici CDMX Analysis](https://github.com/Shazam1701/Ecobici_CDMX_Analysis/tree/main)
