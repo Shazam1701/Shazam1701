@@ -34,20 +34,21 @@ Currently focused on strengthening my skills in **Python, SQL, Statistics and Ma
 
 ## 📌 Featured Projects
 
-### 📊 [Project 1 – Financial Risk Analysis](LINK)
-Data analysis project focused on identifying risk patterns and generating actionable insights.
+### 📊 [Project 1 – Bank Marketing](https://github.com/Shazam1701/Bank-Marketing/blob/main/bank_marketing_logistic_regression.ipynb)
+Project that contains informatioin related to marketing campaing from a portuguese banking institution. The main objective is explore, prepare and build a clasification model that predicts whether a customer subscribed to long term deposit.
 
 **Python · Pandas · NumPy · Statistics · Data Visualization**
 
-### 🏀 [Project 2 – Sports Prediction Model](LINK)
-Statistical analysis and machine learning project designed to explore sports outcomes and predictive modeling.
-
-**Python · SQL · Pandas · Scikit-learn · Statistics**
-
-### 💤 [Project 3 – Sleep & Health Analysis](https://github.com/Shazam1701/Sleep-AI)
+### 💤 [Project 2 – Sleep & Health Analysis](https://github.com/Shazam1701/Sleep-AI)
 Exploratory data analysis investigating the relationship between lifestyle habits and sleep quality.
 
 **Python · Pandas · Matplotlib · Statistics**
+
+### 🏀 [Project 3 – Ecobici CDMX Analysis](https://github.com/Shazam1701/Ecobici_CDMX_Analysis/tree/main)
+Interactive map of Ecobici CDMX to visualize stations, checkout frequencies, and relative demand levels using Python and Folium.
+
+**Python · SQL · Pandas · Scikit-learn · Statistics**
+
 
 ---
 
