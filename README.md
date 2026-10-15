@@ -2,15 +2,15 @@
 
 ### Actuary | Data Analyst | Risk & Analytics
 
-I'm an Actuary with professional experience in **Operational Risk, Enterprise Risk Management, Data Analysis and Financial Services**.
+I'm an Actuary with professional experience in **Data Analysis, Operational Risk, Enterprise Risk Management, and Financial Services**.
 
-Currently focused on strengthening my skills in **Python, SQL, Statistics and Machine Learning**, with the goal of building data-driven solutions for business and risk management.
+Currently focused on strengthening my skills in **Data Science and Machine Learning**, with the goal of building data-driven solutions for business and risk management.
 
 ---
 
 ## 🧠 About Me
 
-- 📊 Experience in Operational and Resilience Risk, Enterprise Risk Managemenet, Risk Analysis and Data Analytics
+- 📊 Experience in Risk Analysis, Operational and Resilience Risk and Enterprise Risk Managemenet.
 - 📈 Interested in Data Science, Machine Learning & AI Risk
 - 💼 Open to opportunities in Data Analytics, Risk Management and Data Science.
 
