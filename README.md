@@ -54,10 +54,12 @@ Streamlit: [https://sleep-ai-4he4df5suutxy73lrwqlaq.streamlit.app/](https://slee
 ### 🚲 [Project 3 – Ecobici CDMX Analysis](https://github.com/Shazam1701/Ecobici_CDMX_Analysis/tree/main)
 Interactive map of Ecobici CDMX to visualize stations, checkout frequencies, and relative demand levels using Python and Folium.
 
-**Python · SQL · Pandas · Scikit-learn · Statistics**
+**Python · Pandas · Folium · Statistics**
 
 ### 📉 [Project 4 – Bank Marketing](https://github.com/Shazam1701/Bank-Marketing/blob/main/bank_marketing_logistic_regression.ipynb)
 Project that contains informatioin related to marketing campaing from a portuguese banking institution. The main objective is explore, prepare and build a clasification model that predicts whether a customer subscribed to long term deposit.
+
+**Python · Pandas · NumPy · Statistics · Data Visualization**
 
 
 ---
