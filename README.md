@@ -8,15 +8,15 @@ Currently focused on strengthening my skills in **Data Science and Machine Learn
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 📊 Experience in Risk Analysis, Operational and Resilience Risk and Enterprise Risk Managemenet.
-- 📈 Interested in Data Science, Machine Learning & AI Risk
-- 💼 Open to opportunities in Data Analytics, Risk Management and Data Science.
+- Experience in Risk Analysis, Operational and Resilience Risk and Enterprise Risk Managemenet.
+- Interested in Data Science, Machine Learning & AI Risk
+- Open to opportunities in Data Analytics, Risk Management and Data Science.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Data & Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,7 +39,7 @@ Currently focused on strengthening my skills in **Data Science and Machine Learn
 
 ## 📌 Featured Projects
 
-### 📊 [Project 1 – Credit Risk Modeling](https://github.com/Shazam1701/Credit-Risk-Modeling/blob/main/Lending%20Club.ipynb)
+### 💳 [Project 1 – Credit Risk Modeling](https://github.com/Shazam1701/Credit-Risk-Modeling/blob/main/Lending%20Club.ipynb)
 This project compares four classification algorithms to predict loan defaults using historical LendingClub data, focusing on model performance, temporal validation, and probability calibration.
 
 **Python · Pandas · NumPy · Statistics · Data Visualization**
@@ -51,12 +51,12 @@ Streamlit: [https://sleep-ai-4he4df5suutxy73lrwqlaq.streamlit.app/](https://slee
 
 **Python · Pandas · Matplotlib · Statistics**
 
-### 🏀 [Project 3 – Ecobici CDMX Analysis](https://github.com/Shazam1701/Ecobici_CDMX_Analysis/tree/main)
+### 🚲 [Project 3 – Ecobici CDMX Analysis](https://github.com/Shazam1701/Ecobici_CDMX_Analysis/tree/main)
 Interactive map of Ecobici CDMX to visualize stations, checkout frequencies, and relative demand levels using Python and Folium.
 
 **Python · SQL · Pandas · Scikit-learn · Statistics**
 
-### 📊 [Project 4 – Bank Marketing](https://github.com/Shazam1701/Bank-Marketing/blob/main/bank_marketing_logistic_regression.ipynb)
+### 📉 [Project 4 – Bank Marketing](https://github.com/Shazam1701/Bank-Marketing/blob/main/bank_marketing_logistic_regression.ipynb)
 Project that contains informatioin related to marketing campaing from a portuguese banking institution. The main objective is explore, prepare and build a clasification model that predicts whether a customer subscribed to long term deposit.
 
 
