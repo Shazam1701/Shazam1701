@@ -44,7 +44,7 @@ This project compares four classification algorithms to predict loan defaults us
 
 **Python · Pandas · NumPy · Statistics · Data Visualization**
 
-### 🏠 [Project 2 - House Price Prediction — ZMCM](https://github.com/Shazam1701/Sleep-AI](https://github.com/Shazam1701/House-Price-Prediction)
+### 🏠 [Project 2 - House Price Prediction — ZMCM](https://github.com/Shazam1701/House-Price-Prediction)
 
 Machine learning project to predict residential property prices in the Mexico City Metropolitan Area (ZMCM).
 
