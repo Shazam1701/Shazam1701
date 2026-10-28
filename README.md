@@ -44,7 +44,11 @@ This project compares four classification algorithms to predict loan defaults us
 
 **Python · Pandas · NumPy · Statistics · Data Visualization**
 
-### 💤 [Project 2 – Sleep & Health Analysis](https://github.com/Shazam1701/Sleep-AI)
+### 🏠 [Project 2 - House Price Prediction — ZMCM]([https://github.com/Shazam1701/Sleep-AI](https://github.com/Shazam1701/House-Price-Prediction))
+
+Machine learning project to predict residential property prices in the Mexico City Metropolitan Area (ZMCM).
+
+### 💤 [Project 3 – Sleep & Health Analysis](https://github.com/Shazam1701/Sleep-AI)
 Exploratory data analysis investigating the relationship between lifestyle habits and sleep quality.
 
 Streamlit: [https://sleep-ai-4he4df5suutxy73lrwqlaq.streamlit.app/](https://sleep-ai-4he4df5suutxy73lrwqlaq.streamlit.app/)
