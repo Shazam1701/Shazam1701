@@ -39,17 +39,16 @@ Currently focused on strengthening my skills in **Data Science and Machine Learn
 
 ## 📌 Featured Projects
 
-### 💳 [Project 1 – Credit Risk Modeling](https://github.com/Shazam1701/Credit-Risk-Modeling/blob/main/Lending%20Club.ipynb)
-This project compares four classification algorithms to predict loan defaults using historical LendingClub data, focusing on model performance, temporal validation, and probability calibration.
-
-**Python · Pandas · NumPy · Logistic Regression · Decision Tree · XGBoost.**
-
-### 🏠 [Project 2 - House Price Prediction — ZMCM](https://github.com/Shazam1701/House-Price-Prediction)
+### 🏠 [Project 1 - House Price Prediction — ZMCM](https://github.com/Shazam1701/House-Price-Prediction)
 
 Machine learning project to predict residential property prices in the Mexico City Metropolitan Area (ZMCM).
 
 **Python · Pandas · NumPy · Linear Regression · Random Forest**
 
+### 💳 [Project 2 – Credit Risk Modeling](https://github.com/Shazam1701/Credit-Risk-Modeling/blob/main/Lending%20Club.ipynb)
+This project compares four classification algorithms to predict loan defaults using historical LendingClub data, focusing on model performance, temporal validation, and probability calibration.
+
+**Python · Pandas · NumPy · Logistic Regression · Decision Tree · XGBoost.**
 
 ### 💤 [Project 3 – Sleep & Health Analysis](https://github.com/Shazam1701/Sleep-AI)
 Exploratory data analysis investigating the relationship between lifestyle habits and sleep quality.
